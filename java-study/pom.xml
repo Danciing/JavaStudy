@@ -12,6 +12,8 @@
         <module>ch-01</module>
         <module>ch-02</module>
         <module>ch-04</module>
+        <module>ch-05</module>
+        <module>ch-03</module>
     </modules>
 
     <properties>
