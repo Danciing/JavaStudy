@@ -14,5 +14,13 @@
         <module name="ch-04" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Assignment-1" target="17" />
+      <module name="Assignment01" target="17" />
+      <module name="webmagic-core" target="1.8" />
+      <module name="webmagic-core (1)" target="1.8" />
+      <module name="webmagic-parent" target="1.8" />
+      <module name="webmagic-parent (1)" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

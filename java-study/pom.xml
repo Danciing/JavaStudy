@@ -14,6 +14,8 @@
         <module>ch-04</module>
         <module>ch-05</module>
         <module>ch-03</module>
+        <module>Assignment-1</module>
+        <module>Assignment01</module>
     </modules>
 
     <properties>
